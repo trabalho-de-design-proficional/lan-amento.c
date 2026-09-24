@@ -1,1 +1,0 @@
-# lan-amento.c

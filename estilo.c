@@ -7,7 +7,7 @@ int main(){
         printf("%d\n", contador);
         contador--;
     }
-    printf("Lançamento", contador = 1);
+    printf("Lançamento\n");
     
     return 0;
 }

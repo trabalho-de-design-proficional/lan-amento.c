@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int contador;
-    printf("digite um contador:  ");
+    printf("digite um numero para contagem:  ");
     scanf("%d", &contador);
     while (contador >= 1){
         printf("%d\n", contador);
